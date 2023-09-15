@@ -10,7 +10,7 @@ stats = "pendente"
 }
 console.log(lista(titulo, descricao, status));
   */
-const quantidadeDePets = parseInt(prompt("Quantos bichinhos de estimação você tem?"));
+const quantidadeDePets = Number(prompt("Quantos bichinhos de estimação você tem?"));
 if (quantidadeDePets === 0) {
   console.log("Que pena! Você pode adotar um pet!");
 } else if (quantidadeDePets > 0) {
