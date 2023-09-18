@@ -14,3 +14,11 @@ E então ele volta para o menu fazendo a mesma pergunta de qual opção deseja e
 5 - Caso o usuário deseje escolher a opção Excluir Tarefa, ele deve apertar 5, e escolher referente ao número atribuido no listar de qual seria a tarefa à ser excluída.
 
 6 - Caso o usuário deseje escolher a opção Sair, ele deve apertar 6, ou cancelar, para fechar o programa.
+
+
+AUTORES:
+Esta biblioteca foi criada por Gabriel Batista, Bruno Leite e Gean Carlos. Voce pode entrar em contato com os autores por e-mail em brunodleite1314@gmail.com, purezindaora@gmail.com.
+
+
+MAIS INFORMAÇÕES:
+Para obter informações detalhadas sobre como usar cada classe e função desta biblioteca, consulte o arquivo de instruções.
